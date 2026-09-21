@@ -1,0 +1,3 @@
+aws-cloud-cache*.json
+*.pem
+.env
